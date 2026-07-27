@@ -1,0 +1,89 @@
+✅ Power BI me aur kya seekhna chahiye?
+📊 1) DAX (Most Important)
+
+Ye Power BI ka heart hai.
+
+Seekh:
+
+CALCULATE()
+FILTER()
+ALL()
+SUMX()
+RELATED()
+Time Intelligence (MTD, YTD, QTD)
+
+👉 Interview me bahut puchte hain.
+
+🔗 2) Data Modeling
+Fact Table vs Dimension Table
+Star Schema
+Relationships
+Cardinality
+🧹 3) Power Query (ETL)
+Data Cleaning
+Merge Queries
+Append Queries
+Pivot/Unpivot
+Custom Columns
+📈 4) Advanced Visuals
+Drill Through
+Tooltips
+Bookmarks
+Dynamic Titles
+Conditional Formatting
+🌍 5) Real Business Dashboards
+
+Banane try karo:
+
+Sales Dashboard
+HR Dashboard
+Finance Dashboard
+Customer Analytics
+☁️ 6) Power BI Service
+Publish Dashboard
+Schedule Refresh
+Sharing & Workspace
+Row Level Security (RLS)
+🚀 Tableau kab move karna chahiye?
+
+👉 Jab:
+
+Power BI basics + DAX comfortable ho jaye
+3–4 strong dashboards bana lo
+Real datasets handle kar lo
+💡 My Recommendation
+✅ Current Path:
+
+Power BI → SQL → Excel → Tableau → Python for Analytics
+
+Kyuki:
+
+Power BI jobs zyada hain
+Tableau seekhna easy ho jayega after Power BI
+🔥 Best Combo for You
+
+Since tu AI/ML bhi kar raha hai:
+
+✅ Power BI
+✅ SQL
+✅ Python (Pandas)
+✅ ML Basics
+
+Ye combo tujhe:
+
+Data Analyst
+BI Analyst
+AI/Data roles
+
+sab ke liye strong bana dega 🔥
+
+📌 Next Best Project Ideas
+HR Analytics Dashboard
+E-commerce Sales Dashboard
+Netflix Dashboard
+Finance Dashboard
+Customer Churn Dashboard (Power BI + ML)
+⭐ Final Advice
+
+❌ Abhi Tableau pe jaldi mat jump kar
+✅ Pehle Power BI + DAX strong kar
