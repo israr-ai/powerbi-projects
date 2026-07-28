@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Large data files - excluded from GitHub (exceeds 100MB file limit)
+database/inventory.db
+data/sales.csv
+data/purchases.csv
